@@ -20,7 +20,7 @@ import json
 class Chat(): #Chatwork module
     APIKEY = '' #the class variables for the module
     ENDPOINT = 'https://api.chatwork.com/v2'
-    ###ROOMID = '154983415' #ID of the chatroom
+    ###ROOMID = '' #ID of the chatroom
     ROOMID = ''
     SELFID= ''  #ID of the chatwork bot
 
